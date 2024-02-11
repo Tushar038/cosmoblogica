@@ -32,11 +32,11 @@ const Contact = () => {
                 <Typography variant="h3">Getting in touch is easy!</Typography>    
                 <Text variant="h5">
                     Reach out to me on
-                    <Link href="https://www.linkedin.com/in/tushar038/" color="inherit" target="_blank">
+                    <Link href="https://www.linkedin.com/in/sanskar8779/" color="inherit" target="_blank">
                         <LinkedIn/>
                     </Link>
                     or 
-                    <Link href="https://github.com/Tushar038" target="_blank" color="inherit">
+                    <Link href="https://github.com/Sanskar8779" target="_blank" color="inherit">
                         <GitHub />
                     </Link>.
                 </Text>
