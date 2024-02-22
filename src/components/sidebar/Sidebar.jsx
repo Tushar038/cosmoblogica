@@ -22,7 +22,7 @@ export default function Sidebar() {
           alt=""
         />
         <p>
-        Hello! I'm Sanskar Shubham, a passionate and driven web developer on a journey to master the art of web development.
+        Hello! I'm Tushar Nagar, a passionate and driven web developer on a journey to master the art of web development.
         </p>
       </div>
       {/* <div className="sidebarItem">
