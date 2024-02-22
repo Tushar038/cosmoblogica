@@ -29,16 +29,16 @@ const About = () => {
             <Banner/>
             <Wrapper>
                 <Typography variant="h3">Young Coder with Big Dreams</Typography>
-                <Text variant="h5">Hello! I'm Sanskar Shubham, a passionate and driven web developer on a journey to master the art of web development.<br />
+                <Text variant="h5">Hello! I'm Tushar Nagar, a passionate and driven web developer on a journey to master the art of web development.<br />
                     If you are interested, you can view some of my projects here
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://github.com/Sanskar8779" color="inherit" target="_blank"><GitHub /></Link>
+                        <Link href="https://github.com/Tushar038" color="inherit" target="_blank"><GitHub /></Link>
                     </Box>
                 </Text>
                 <Text variant="h5">
                     Need something built or simply want to have chat? Reach out to me on
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://www.linkedin.com/in/sanskar8779/" color="inherit" target="_blank">
+                        <Link href="https://www.linkedin.com/in/tushar038/" color="inherit" target="_blank">
                             <LinkedIn />
                         </Link>
                     </Box>  
